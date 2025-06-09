@@ -36,11 +36,10 @@ My research centers on graph machine learning, open-world machine learning and m
 
 **Weijie Guan**, Haohui Wang, Jian Kang, Lihui Liu, Dawei Zhou 
 
+[**Github**](https://github.com/SSSKJ/EviNET) <strong><span class='show_paper_citations' data=''></span></strong>
 - Address graph learning in open and noisy environments by jointly tackling misclassification and OOD detection.
 - Propose EviNet, which leverages beta embeddings and subjective logic to model uncertainty for both known and novel classes.
 - Demonstrate strong performance across classification, misclassification detection, and OOD detection through extensive experiments.
-
-[**Github**](https://github.com/SSSKJ/EviNET) <strong><span class='show_paper_citations' data=''></span></strong>
 </div>
 </div>
 
@@ -51,11 +50,10 @@ My research centers on graph machine learning, open-world machine learning and m
 
 Haohui Wang, **Weijie Guan**, Jianpeng Chen, Zi Wang, Dawei Zhou
 
+[**Github**](https://github.com/SSSKJ/HeroLT) <strong><span class='show_paper_citations' data='9RgIQ50AAAAJ:ufrVoPGSRksC'></span></strong>
 - Review long-tailed learning from data distribution, domain complexity, and task heterogeneity.
 - Highlight key challenges and guide algorithm selection.
 - Provide an open-source toolbox with 18 methods evaluated on multiple benchmarks.
-
-[**Github**](https://github.com/SSSKJ/HeroLT) <strong><span class='show_paper_citations' data='9RgIQ50AAAAJ:ufrVoPGSRksC'></span></strong>
 </div>
 </div>
 
