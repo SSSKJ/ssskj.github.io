@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a CS Ph.D. candidate at Virginia Polytechnic Institute and State University and a member of the [VLOG Lab@VT](https://sites.google.com/view/dawei-zhou/vlog-lab?authuser=0) led by [Prof. Dawei Zhou](https://sites.google.com/view/dawei-zhou/home). Before that, I obtained my M.S. in Data Analytics Engineering degree from Northeastern University, Boston and B.Eng. in Software Engineering from Sun Yat-sen University.
+I’m a CS Ph.D. candidate at Virginia Polytechnic Institute and State University and a member of the [VLOG Lab@VT](https://sites.google.com/view/dawei-zhou/vlog-lab?authuser=0) leading by [Prof. Dawei Zhou](https://sites.google.com/view/dawei-zhou/home). Before that, I obtained my M.S. in Data Analytics Engineering degree from Northeastern University, Boston and B.Eng. in Software Engineering from Sun Yat-sen University.
 
 My research centers on graph machine learning, open-world machine learning and multi-modal learning. If you are interested in my research, feel free to reach out to me via skjguan@vt.edu.
 
