@@ -29,10 +29,10 @@ My research centers on graph machine learning, open-world machine learning and m
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/EviNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/EviNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EVINET: Towards Open-World Graph Learning via Evidential Reasoning Network](), KDD'2025
+[EVINET: Towards Open-World Graph Learning via Evidential Reasoning Network]()
 
 **Weijie Guan**, Haohui Wang, Jian Kang, Lihui Liu, Dawei Zhou 
 
@@ -46,7 +46,7 @@ My research centers on graph machine learning, open-world machine learning and m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/herolt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Heterogeneous Long-tailed Learning: Benchmarking, Metrics, and Toolbox](https://proceedings.neurips.cc/paper_files/paper/2024/file/85cd8edc556709341b2ef6c4d5725545-Paper-Datasets_and_Benchmarks_Track.pdf), NeurIPS'2024
+[Towards Heterogeneous Long-tailed Learning: Benchmarking, Metrics, and Toolbox](https://proceedings.neurips.cc/paper_files/paper/2024/file/85cd8edc556709341b2ef6c4d5725545-Paper-Datasets_and_Benchmarks_Track.pdf)
 
 Haohui Wang, **Weijie Guan**, Jianpeng Chen, Zi Wang, Dawei Zhou
 
