@@ -32,7 +32,7 @@ My research centers on graph machine learning, open-world machine learning and m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/EviNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EVINET: Towards Open-World Graph Learning via Evidential Reasoning Network]()
+[EVINET: Towards Open-World Graph Learning via Evidential Reasoning Network](https://www.arxiv.org/abs/2506.07288)
 
 **Weijie Guan**, Haohui Wang, Jian Kang, Lihui Liu, Dawei Zhou 
 
