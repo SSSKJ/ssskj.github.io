@@ -23,8 +23,9 @@ My research centers on graph machine learning, open-world machine learning and m
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our EviNet paper has been accepted to KDD 2025. 
-- *2024.09*: &nbsp;🎉🎉 Our HeroLT paper has been accepted to NeurIPS 2024. 
+- *2025.08*: I will give a talk on our latest work **EviNet** at the **AI Reasoning Day**, **KDD 2025** in Toronto. See you there!
+- *2025.05*: &nbsp;🎉🎉 Our **EviNet** paper has been accepted to KDD 2025. 
+- *2024.09*: &nbsp;🎉🎉 Our **HeroLT** paper has been accepted to NeurIPS 2024. 
 
 
 # 📝 Publications 
@@ -73,9 +74,8 @@ Haohui Wang, **Weijie Guan**, Jianpeng Chen, Zi Wang, Dawei Zhou
 - *Sep. 2018 – May 2020*, M.S. in Data Analytics Engineering, Northeastern University, Boston.
 - *Sep. 2014 – May 2018*, B.S. in Software Engineering, Sun Yat-sen University, Guangzhou.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Invited Talks
+- *2025.08*, Invited Talk on EviNet at the **AI Reasoning Day**, a special day at **KDD 2025** in Toronto.
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
