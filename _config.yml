@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weijie Guan"
-description              : "Weijie Guan is a Ph.D. student in the Department of Computer Science at Virginia Tech, advised by Dawei Zhou. His research focuses on graph machine learning, open-world learning, and multi-modal learning."
+description              : "Ph.D. student in Computer Science at Virginia Tech, with research focused on graph machine learning, open-world learning, and multi-modal learning."
 repository               : "SSSKJ/ssskj.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weijie Guan"
   avatar           : "images/avatar.jpg"
-  bio              : "Ph.D. student in Computer Science at Virginia Polytechnic Institute and State University"
+  bio              : ""
   location         : "Virginia, US"
   employer         :
   pubmed           : 
