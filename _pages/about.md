@@ -65,9 +65,8 @@ Haohui Wang, **Weijie Guan**, Jianpeng Chen, Zi Wang, Dawei Zhou
 - *2024.12*: &nbsp;🎉🎉 Serve as a reviewer for WWW 2025.
 
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2025.06*, Virginia Tech Conmputer Science Department Travel Award
 
 # 📖 Educations
 - *Aug. 2023 – Present*, Ph.D. in Computer Science, Virginia Tech, Blacksburg. 
