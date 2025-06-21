@@ -26,8 +26,8 @@ My research centers on graph machine learning, open-world machine learning and m
 - *2025.08*: 🎤 I will give a talk on our latest work **EviNet** at the **AI Reasoning Day**, **KDD 2025** in Toronto. See you there!
 - *2025.06*: 🏅 I have been selected for the **NSF-supported KDD 2025 Student Travel Award** to attend **KDD 2025**!
 - *2025.06*: 🏅 Honored with the **Virginia Tech CS Travel Award** in recognition of my paper presentation at a leading research venue.
-- *2025.05*: &nbsp;🎉🎉 Our **EviNet** paper has been accepted to KDD 2025. 
-- *2024.09*: &nbsp;🎉🎉 Our **HeroLT** paper has been accepted to NeurIPS 2024. 
+- *2025.05*: 🎉 Our **EviNet** paper has been accepted to KDD 2025. 
+- *2024.09*: 🎉 Our **HeroLT** paper has been accepted to NeurIPS 2024. 
 
 
 # 📝 Publications 
