@@ -23,7 +23,9 @@ My research centers on graph machine learning, open-world machine learning and m
 
 
 # 🔥 News
-- *2025.08*: I will give a talk on our latest work **EviNet** at the **AI Reasoning Day**, **KDD 2025** in Toronto. See you there!
+- *2025.08*: 🎤 I will give a talk on our latest work **EviNet** at the **AI Reasoning Day**, **KDD 2025** in Toronto. See you there!
+- *2025.07*: 🏅 I have been selected for the **NSF-supported KDD 2025 Student Travel Award** to attend **KDD 2025**!
+- *2025.06*: 🏅 Honored with the **Virginia Tech CS Travel Award** in recognition of my paper presentation at a leading research venue.
 - *2025.05*: &nbsp;🎉🎉 Our **EviNet** paper has been accepted to KDD 2025. 
 - *2024.09*: &nbsp;🎉🎉 Our **HeroLT** paper has been accepted to NeurIPS 2024. 
 
@@ -61,19 +63,20 @@ Haohui Wang, **Weijie Guan**, Jianpeng Chen, Zi Wang, Dawei Zhou
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 👀 Invited Reviewers
-- *2025.02*: &nbsp;🎉🎉 Serve as a reviewer for ICLR 2025 AgenticAI Workshop.
-- *2024.12*: &nbsp;🎉🎉 Serve as a reviewer for WWW 2025.
+- *2025.02*: Serve as a reviewer for ICLR 2025 AgenticAI Workshop.
+- *2024.12*: Serve as a reviewer for WWW 2025.
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
+- *2025.07*, NSF-supported KDD 2025 Student Travel Award
 - *2025.06*, Virginia Tech Conmputer Science Department Travel Award
 
-# 📖 Educations
+# 🎓 Educations
 - *Aug. 2023 – Present*, Ph.D. in Computer Science, Virginia Tech, Blacksburg. 
 - *Sep. 2018 – May 2020*, M.S. in Data Analytics Engineering, Northeastern University, Boston.
 - *Sep. 2014 – May 2018*, B.S. in Software Engineering, Sun Yat-sen University, Guangzhou.
 
-# 💬 Invited Talks
+# 🎤 Invited Talks
 - *2025.08*, Invited Talk on EviNet at the **AI Reasoning Day**, a special day at **KDD 2025** in Toronto.
 
 <!-- # 💻 Internships
